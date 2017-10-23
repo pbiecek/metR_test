@@ -7,3 +7,7 @@ The package for finding and visualizating differentially methylated regions (DMR
 ```
 devtools::install_github("abrodecka/metR_test")
 ```
+
+## Introduction
+
+https://rawgithub.com/pbiecek/metR_test/master/test_metR.html
